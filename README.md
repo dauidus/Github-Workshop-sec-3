@@ -2,4 +2,4 @@
  sam was here!!!
  for my favorite class!!!  <3
 
-monkey farts
+monkey farts ^ 2
