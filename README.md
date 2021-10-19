@@ -1,7 +1,20 @@
 Github Workshop section 3
+
  sam was here!!!
  for my favorite class!!!  <3
- THIS IS ME COMMITTING!!!!! I'M NOT ON A BOAT ANYMORE!
+
+(bet you say that to all classes :( 
+(hello everyone.... )   
+
+(bet you say that to all classes :(    
+
+:))))))))
+
+
+hey sir.....
+
+
 
 monkey farts ^ 2
 PLS tell me this worked
+
