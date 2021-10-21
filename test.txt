@@ -1,3 +1,0 @@
-asdfasd
-asdf
-asdf
