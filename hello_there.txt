@@ -1,3 +1,11 @@
 hello there
 
+<<<<<<< Updated upstream
 hello -jett
+=======
+<<<<<<< HEAD
+general kenobi
+=======
+hello -jett
+>>>>>>> b96e46b9c8cbfd58eaf9d1143ef6386fcca5f45e
+>>>>>>> Stashed changes
