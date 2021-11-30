@@ -3,3 +3,5 @@ Hello There
 This is my edit for 10/21 class
 
 my name is chaz
+
+my commit
