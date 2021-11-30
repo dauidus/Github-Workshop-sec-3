@@ -1,3 +1,7 @@
 Hello There
 
-This is my edit for 10/21/21 class
+This is my edit for 10/21 class
+
+my name is chaz
+
+my commit
