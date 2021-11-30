@@ -1,3 +1,8 @@
 hello
+<<<<<<< HEAD
 
 bruh
+=======
+Everyone 
+Just do..............
+>>>>>>> 91b9382cd79cd8c15a36096ffb6f7524e9a13894
