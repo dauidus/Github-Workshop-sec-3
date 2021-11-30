@@ -5,7 +5,7 @@
 		overflow-y:scroll;
 	}
 	body {
-		background-color: #E8E8E8;
+		background-color: pink;
 		background-image: url("../bruh.png");
 		margin: 0px;
 		padding: 0px;
@@ -37,7 +37,7 @@
 		margin-top: 30px;
 	}
 	#content {
-		background-color:#FFF;
+		background-color:pink;
 		-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
 		-moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
 		box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
