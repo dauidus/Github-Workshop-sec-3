@@ -1,22 +1,27 @@
 Github Workshop section 3
 
- sam was here!!!
+ CAN I GET S YOOOHHAAAAAA
+ sam bam was here!!!
+ for my favorite class!!!  <3
+
+
  for my favorite class!!!  <3
 
 (bet you say that to all classes :( 
 (hello everyone.... )   
 
-(bet you say that to all classes :(    
 
 :))))))))
 
 
 hey sir.....
 
-
+hello :)
 
 monkey farts ^ 2
 PLS tell me this worked
 
 HELLO TEST
+
+hello :))
 shameless plug: https://www.twitch.tv/visualalias 
