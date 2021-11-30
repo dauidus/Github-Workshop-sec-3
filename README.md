@@ -15,8 +15,8 @@ Github Workshop section 3
 
 
 hey sir.....
+yuuhhhh
 
-hello :)
 
 monkey farts ^ 2
 PLS tell me this worked
@@ -25,3 +25,6 @@ HELLO TEST
 
 hello :))
 shameless plug: https://www.twitch.tv/visualalias 
+
+ block twitch ads using this 
+https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm?hl=en
